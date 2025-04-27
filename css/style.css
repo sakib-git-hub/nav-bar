@@ -158,6 +158,20 @@ li a:hover{
     height: 500px;
     background-image: url(latest-work-bg.png);
     background-position-x: 100%;
+   
+    
+}
+#pic-1{
+    height: 300px;
+    width: 400px;
+}
+#pic-2{
+    height: 300px;
+    width: 400px;
+}
+#pic-3{
+    height: 300px;
+    width: 400px;
 }
 .div-5{
     position: relative;
@@ -170,21 +184,7 @@ li a:hover{
     text-align: center;
     font-size: 40px;
 }
-#img-3{
-    
-    height: 300px;
-    width: 400px;
-}
-#img-4{
-   
-    height: 300px;
-    width: 400px;
-}
-#img-5{
-    
-    height: 300px;
-    width: 400px;
-}
+
 .sec-5{
     position: relative;
     padding: 140px;
